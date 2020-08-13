@@ -1,2 +1,2 @@
 # Apollo-Autopilot
-learn with Apollo from theory to practice
+> Learn with Apollo from theory to practice
